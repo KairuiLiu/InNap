@@ -1,6 +1,6 @@
 
 
-<h2 align="center"><img src="./img/logo-512.png" height="256"><br>InNap</h2>
+<h2 align="center"><img src="./img/logo-512.png" height="192"><br>InNap</h2>
 <p align="center"><strong>XCPC比赛监控平台</strong></p>
 
 [![](https://img.shields.io/github/issues/KairuiLiu/InNap)](https://github.com/KairuiLiu/InNap/issues)
