@@ -1,0 +1,28 @@
+{
+  "name": "innap",
+  "version": "1.0.0",
+  "description": "<h2 align=\"center\"><img src=\"./img/logo-512.png\" height=\"192\"><br>InNap</h2> <p align=\"center\"><strong>XCPC比赛监控平台</strong></p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KairuiLiu/InNap.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KairuiLiu/InNap/issues"
+  },
+  "homepage": "https://github.com/KairuiLiu/InNap#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^16.1.0",
+    "@commitlint/config-conventional": "^16.0.0",
+    "@types/node": "*",
+    "husky": "^7.0.4",
+    "lint-staged": "^12.3.3"
+  }
+}
